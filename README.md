@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub here](https://github.com/sledua/-roduct-preview-card-component-solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://classy-chebakia-e39057.netlify.app/)
 
 ## My process
 
@@ -44,9 +44,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 
@@ -66,7 +63,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Website - [Art Sled](https://github.com/sledua)
 - Frontend Mentor - [@sledua](https://www.frontendmentor.io/profile/sledua)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 
 ## Acknowledgments
